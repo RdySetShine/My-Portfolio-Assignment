@@ -1,31 +1,30 @@
 # Career Portfolio
 
-## Description
-read me acceptance with whats going 
-this is a caeer portfotilo written using hmtl and css my own version
+## Description:
+```
+- Made all images responsive with links.
+- Used Media Queries to add functionality to resizing of the webpage.
+- Created Navbar links to redirect user to appropriate sections.
+- Created webpage to present my projects for potential Employers. 
+```
+## Mock Up:
 
-etc
-
-![Screenshot of My App](./myportfolio/assets/images/Full%20Portfolio%20Page.png) 
-
-
+![Screenshot of My App](assets/images/Full%20Portfolio%20Page.png)
 
 ## Author: 
-
+```
 Bruno Rosarini 
- 
+ ```
 ## Top Contributers:
-
-. Keegan Omel
-. Austin Grech
-
+```
+- Keegan Omel
+- Austin Grech
+```
 ## Contributers:
-
-. Krishna - Assistant Instructor / TA
-. Patrick Meehan Tutor
-
+```
+- Krishna - Assistant Instructor / TA
+- Patrick Meehan Tutor
+```
 ## Live link 
 
-https://github.com/RdySetShine/My-Portfolio-Assignment
-
-
+url: https://rdysetshine.github.io/My-Portfolio-Assignment/
