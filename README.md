@@ -9,7 +9,7 @@
 ```
 ## Mock Up:
 
-![Screenshot of My App](assets/images/Full%20Portfolio%20Page.png)
+(![Alt text](assets/images/NewPortfolioPicKB.jpeg))
 
 ## Author: 
 ```
